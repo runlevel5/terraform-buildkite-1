@@ -6,8 +6,8 @@ This allows you to manage buildkite pipelines with Terraform.
 
 Run
 ```bash
-go get github.com/saymedia/terraform-buildkite/terraform-provider-buildkite
-go install github.com/saymedia/terraform-buildkite/terraform-provider-buildkite
+go get github.com/tink-ab/terraform-buildkite/terraform-provider-buildkite
+go install github.com/tink-ab/terraform-buildkite/terraform-provider-buildkite
 ```
 Which gives you a `terraform-provider-buildkite` in `$GOPATH/bin`.
 
